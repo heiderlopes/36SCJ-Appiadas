@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Appiada</string>
+    <string name="label_joker_hint">The Joker</string>
+    <string name="button_new_joker">Tell me joker</string>
+
+    <string name="joker_one">Joker 1</string>
+    <string name="joker_two">Joker 2</string>
+    <string name="joker_three">Joker 3</string>
+    <string name="joker_four">Joker 4</string>
+    <string name="joker_five">Joker 5</string>
+    <string name="joker_six">Joker 6</string>
+    <string name="joker_seven">Joker 7</string>
+</resources>
